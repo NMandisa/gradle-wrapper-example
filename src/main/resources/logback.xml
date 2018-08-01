@@ -16,7 +16,7 @@
 		<appender-ref ref="STDOUT" />
 	</logger>
 	
-	<logger name="za.co.fynbos.helloworld." level="debug" 
+	<logger name="za.co.fynbos.helloworld" level="debug" 
                 additivity="false">
 		<appender-ref ref="STDOUT" />
 	</logger>
